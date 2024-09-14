@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*$stroke_prediction_ml_project.egg-info
 
 # C extensions
 *.so
